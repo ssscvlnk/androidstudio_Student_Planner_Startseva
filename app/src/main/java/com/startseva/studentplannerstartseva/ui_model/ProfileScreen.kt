@@ -123,7 +123,7 @@ fun ProfileScreen(
                         )
                         StatisticItem(
                             label = "Дисциплин",
-                            value = "6"
+                            value = "10"
                         )
                     }
                 }
